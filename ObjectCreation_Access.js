@@ -14,4 +14,5 @@ console.log(StudentName);
 console.log(lName);
 console.log(classname +' '+subject +' '+teacher +' '+email);
 
-//console.log(`My name is ${fname} and I am ${age} yers old.`);
+//output Anitha  Ravindra  10A English Indira indira@test.com
+
