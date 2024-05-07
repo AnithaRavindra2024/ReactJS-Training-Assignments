@@ -229,8 +229,7 @@ function Registration() {
                 });
             }
         
-    
-    
+        
      
     return (
         <form  className={styles.loginForm} onSubmit={handleSubmit} >
@@ -318,7 +317,7 @@ function Registration() {
  
         </div>
 
-        <button type="submit" className={styles.submitButton}>Register</button>
+        <button type="submit" className={styles.submitButton}>Register User</button>
         <br></br>
         <button type="button" className={styles.submitButton} onClick={handleDelete}>Delete User</button>
         <br></br>
