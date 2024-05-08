@@ -14,5 +14,5 @@ console.log(StudentName);
 console.log(lName);
 console.log(classname +' '+subject +' '+teacher +' '+email);
 
-//output Anitha  Ravindra  10A English Indira indira@test.com
+//output Anitha  Ravindra  10A English Indira indira@test.com 
 

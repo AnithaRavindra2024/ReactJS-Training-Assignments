@@ -4,7 +4,7 @@ const fruits =['Apple','Banana','Cherry'];
 
 const [a,b,c] = fruits;
 console.log(a); //Output Apple
-console.log(c); //Output Cherry
+console.log(c); //Output Cherry 
 
 //Object Destructuring 
 

@@ -8,7 +8,7 @@ const array3={National:'Indian',...array1,Pannumber:'AFHPR101',...array2 ,countr
 console.log(array3);
 
 //Output National:"Indian" Pannumber : "AFHPR101" age: 43  city: "Bangalore" country: "India" 
-//firstName: "Anitha" lastName: "Ravindra"
+//firstName: "Anitha" lastName: "Ravindra" 
 
 //Spread Operator with Objects
 

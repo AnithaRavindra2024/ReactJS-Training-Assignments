@@ -7,7 +7,7 @@ let x = sumAll(2,3);
 
 console.log("Sum of two numbers is " + x);
 
-//Rest Parameters with Other Parameters
+//Rest Parameters with Other Parameters 
 
 function userInfo(firstName,lastName,...hobbies)
 {
